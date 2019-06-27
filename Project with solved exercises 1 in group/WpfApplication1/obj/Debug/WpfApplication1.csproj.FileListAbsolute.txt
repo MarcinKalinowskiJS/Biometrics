@@ -1,0 +1,240 @@
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\student\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1NOWY\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.baml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.g.cs
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.g.cs
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.baml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.baml
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\FilterMask.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\OriginalImageWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Marcin\Desktop\Studia\Biometrics\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\FilterMask.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\HistogramWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\OriginalImageWindow.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\FilterMask.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\HistogramWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\OriginalImageWindow.baml
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Marcin\Desktop\Studia\Biometrics\Project with solved exercises 1 in group\WpfApplication1\obj\Debug\WpfApplication1.pdb

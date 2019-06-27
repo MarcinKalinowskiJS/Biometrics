@@ -1,0 +1,2 @@
+Project has added functions such as thining using K3M algorithm, search minutiae, deleting false minutiae and indicating pixels with minutiae. There is also configuration options for finding minutiae. It is possible to set size of minutiae indicator, distance between detected minutiae and mask under with only 1 minutia can remain.
+When working with minutiae it is necessary to firstly thin the fingerprint using K3M algorithm and then use "Minutiae" button for finding minutiae.

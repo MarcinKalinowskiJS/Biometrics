@@ -1,0 +1,108 @@
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.g.cs
+C:\Users\Elvis\Documents\WPFProjects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.baml
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.baml
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.DataGrid.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.pdb
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\WriteableBitmapEx.Wpf.xml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\HistogramWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Marcin\Documents\WPF Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+C:\Users\student\Desktop\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
