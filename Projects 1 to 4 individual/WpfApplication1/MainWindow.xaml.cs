@@ -1377,42 +1377,5 @@ namespace WpfApplication1
             }
             return null;
         }
-
-        //Zamykanie strumienia
-        //https://msdn.microsoft.com/en-us/library/aa328800(v=vs.71).aspx
-
-        //https://stackoverflow.com/questions/15779564/resize-image-in-wpf
-        //https://stackoverflow.com/questions/4214155/wpf-easiest-way-to-move-image-to-x-y-programmatically
-
-        //Scale Transform
-        //http://www.c-sharpcorner.com/uploadfile/mahesh/scaletransform-in-wpf/
-
-        //WriteableBitmapEx
-        //nuget PM> Install-Package WriteableBitmapEx -Version 1.5.1
-        //https://archive.codeplex.com/?p=writeablebitmapex
-
-        //Extended.Wpf.Toolkit (ColorPicker)
-        //https://stackoverflow.com/questions/17089382/wpf-color-picker-implementation/17090082
-        //https://wpftoolkit.codeplex.com/documentation
-        //nuget PM> Install-Package Extended.Wpf.Toolkit -Version 3.3.0
-
-        //Wczytywanie gifa do tablicy bajtów
-        //https://social.msdn.microsoft.com/Forums/vstudio/en-US/40e8fcdc-94b9-4e5a-a517-62514a2f8874/how-to-read-a-gif-file?forum=csharpgeneral
-        //bajty do imagesource
-        //https://stackoverflow.com/questions/30727343/fast-converting-bitmap-to-bitmapsource-wpf
-
-
-        //Zadanie 3
-        //Otsu's method explained
-        //http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html
-        //Niblack local thresholding MATLAB
-        //https://www.researchgate.net/publication/221253803_Comparison_of_Niblack_inspired_Binarization_Methods_for_Ancient_Documents
-
-
-        //Zadanie 4
-        //Filtr konwolucyjny
-        //https://4programmers.net/Forum/C_i_C++/60425-Filtr_konwolucyjny
-
-        //Poprawnie działające zadanie 4.1 http://wklej.org/id/3432022/
     }
 }

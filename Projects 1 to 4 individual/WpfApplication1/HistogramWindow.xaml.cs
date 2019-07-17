@@ -238,10 +238,4 @@ namespace WpfApplication1
             
         }
     }
-    //Histogram to chart
-    //http://trompelecode.com/blog/2012/04/how-to-create-an-image-histogram-using-csharp-and-wpf/
-    //Binding
-    //https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/how-to-make-data-available-for-binding-in-xaml
-    //Dynamic polygons
-    //http://classicalprogrammer.wikidot.com/draw-dynamic-polygons-in-wpf
 }

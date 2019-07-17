@@ -21,11 +21,6 @@ namespace WpfApplication1
     /// </summary>
     public partial class FilterMask : Window
     {
-        //https://stackoverflow.com/questions/665299/are-2-dimensional-lists-possible-in-c
-        //https://stackoverflow.com/questions/276808/how-to-populate-a-wpf-grid-based-on-a-2-dimensional-array
-        //http://www.thinkbottomup.com.au/site/blog/Game_of_Life_in_XAML_WPF_using_embedded_Python
-        //https://docs.microsoft.com/pl-pl/dotnet/framework/wpf/advanced/how-to-build-a-table-programmatically#example-5
-        //https://stackoverflow.com/questions/8575189/equivalent-of-getters-setters-for-collections-within-a-class
         public class TableItem : INotifyPropertyChanged
         {
             public event PropertyChangedEventHandler PropertyChanged;
@@ -88,7 +83,5 @@ namespace WpfApplication1
         {
             Window.GetWindow(this).Close();
         }
-
-        //https://stackoverflow.com/questions/3468433/wpf-window-return-value
     }
 }

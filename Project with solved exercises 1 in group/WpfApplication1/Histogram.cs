@@ -192,6 +192,4 @@ namespace WpfApplication1
         }
 
     }
-    //Histogram from image
-    //https://stackoverflow.com/questions/27136360/using-c-sharp-to-produce-a-color-histogram-from-an-image
 }
